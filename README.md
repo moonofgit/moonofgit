@@ -1,1 +1,1 @@
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLdt_T9U3hlgxJR9hekLmqvBGdcwpo_rcdcAPb_vJtiQ&s=10
+<img width="540" height="303" alt="image" src="https://github.com/user-attachments/assets/0f2448f4-c400-4383-8928-5c18c14d209f" />
