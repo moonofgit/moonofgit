@@ -19,7 +19,7 @@
 <br clear="both">
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://i.pinimg.com/736x/ca/da/25/cada25a79b32fa519c27ff2bf9658f04.jpg"  />
+  <img data-importer="image" height="500" src="https://i.pinimg.com/736x/ca/da/25/cada25a79b32fa519c27ff2bf9658f04.jpg"  />
 </div>
 
 ###
